@@ -1,13 +1,13 @@
 <?php
 
-namespace src\factories;
+namespace luchkin\test\factories;
 
-use src\fakeClasses\FakeExcel;
-use src\fakeClasses\FakeWord;
-use src\printerAdapter\EmptyTemplater;
-use src\printerAdapter\ExcelAdapter;
-use src\printerAdapter\WordAdapter;
-use src\printerAdapter\XMLAdapter;
+use luchkin\test\fakeClasses\FakeExcel;
+use luchkin\test\fakeClasses\FakeWord;
+use luchkin\test\printerAdapter\EmptyTemplater;
+use luchkin\test\printerAdapter\ExcelAdapter;
+use luchkin\test\printerAdapter\WordAdapter;
+use luchkin\test\printerAdapter\XMLAdapter;
 
 class TemplaterFactory implements Factory {
 

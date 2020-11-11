@@ -1,6 +1,6 @@
 <?php
 
-namespace src\printerAdapter;
+namespace luchkin\test\printerAdapter;
 
 interface PrintebleTemplater {
 

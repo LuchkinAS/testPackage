@@ -1,9 +1,9 @@
 <?php
 
 
-namespace src\printerAdapter;
+namespace luchkin\test\printerAdapter;
 
-use src\fakeClasses\FakeExcel;
+use luchkin\test\fakeClasses\FakeExcel;
 
 class ExcelAdapter implements PrintebleTemplater {
 

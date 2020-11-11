@@ -1,6 +1,6 @@
 <?php
 
-namespace src\printerAdapter;
+namespace luchkin\test\printerAdapter;
 
 class XMLAdapter implements PrintebleTemplater {
 

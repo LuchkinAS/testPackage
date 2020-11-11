@@ -1,6 +1,6 @@
 <?php
 
-namespace src\factories;
+namespace luchkin\test\factories;
 
 interface Factory {
 

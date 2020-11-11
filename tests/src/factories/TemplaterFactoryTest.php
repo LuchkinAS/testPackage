@@ -2,10 +2,10 @@
 
 namespace src\factories;
 
-use src\printerAdapter\EmptyTemplater;
-use src\printerAdapter\ExcelAdapter;
-use src\printerAdapter\WordAdapter;
-use src\printerAdapter\XMLAdapter;
+use luchkin\test\printerAdapter\EmptyTemplater;
+use luchkin\test\printerAdapter\ExcelAdapter;
+use luchkin\test\printerAdapter\WordAdapter;
+use luchkin\test\printerAdapter\XMLAdapter;
 use PHPUnit\Framework\TestCase;
 
 class TemplaterFactoryTest extends TestCase {

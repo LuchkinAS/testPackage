@@ -1,8 +1,8 @@
 <?php
 
-namespace src\printerAdapter;
+namespace luchkin\test\printerAdapter;
 
-use src\fakeClasses\FakeWord;
+use luchkin\test\fakeClasses\FakeWord;
 
 class WordAdapter implements PrintebleTemplater {
     private FakeWord $instance;

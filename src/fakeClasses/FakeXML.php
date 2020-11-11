@@ -1,6 +1,6 @@
 <?php
 
-namespace src\fakeClasses;
+namespace luchkin\test\fakeClasses;
 
 class FakeXML{
 
