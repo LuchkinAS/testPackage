@@ -1,9 +1,10 @@
 {
     "name": "luchk/test",
-    "type": "project",
+    "type": "library",
+    "minimum-stability": "dev",
     "authors": [
         {
-            "name": "luchk",
+            "name": "luchkin",
             "email": "luchkin.arseniy@gmail.com"
         }
     ],
@@ -12,5 +13,6 @@
         "psr-4": {
             "src\\": "src/"
         }
-    }
+    },
+    "description": ""
 }
